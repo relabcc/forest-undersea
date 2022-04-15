@@ -1,0 +1,1 @@
+{"version":3,"file":"component---src-pages-guide-js-18db03e3ef1552251319.js","mappings":"0JAEA,UAAeA,EAAf","sources":["webpack://styled-gatsby-starter/./src/pages/guide.js"],"sourcesContent":["import Page from '../containers/GuidePage'\r\n\r\nexport default Page\r\n"],"names":["Page"],"sourceRoot":""}
